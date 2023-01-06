@@ -5,7 +5,7 @@
 ▪ Tenho 18 anos
 ▪ Sou de SP
 
-💻Comecei a programar a pouco tempo💻
+💻Comecei a programar há pouco tempo💻
 
 📷Sou melhor com front-end📷
 
