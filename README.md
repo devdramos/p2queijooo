@@ -7,6 +7,6 @@
 
 💻Comecei a programar há pouco tempo💻
 
-📷Sou melhor com front-end📷
+📷Adoro front-end📷
 
 🎉Coloquei meu primeiro site no ar há pouco tempo🎉
