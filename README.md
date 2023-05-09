@@ -1,12 +1,11 @@
-👋Oi pessoal, sejam bem vindos ao meu perfil!👋
+👋Hello, welcome to my perfil!👋
+🌺Informations about me🌺
 
-🌺Algumas informações sobre mim🌺
-▪ Me chamo Daniele Barroso Ramos
-▪ Tenho 18 anos
-▪ Sou de SP
+▪ My name is Daniele
 
-💻Comecei a programar há pouco tempo💻
+▪ I'm 18
 
-📷Adoro front-end📷
+▪ I live at SP, Brazil
 
-🎉Coloquei meu primeiro site no ar há pouco tempo🎉
+💻I'm passionate about programming💻
+📷I really love front-end📷
